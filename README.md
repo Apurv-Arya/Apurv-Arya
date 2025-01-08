@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Apurv Arya</h1>
 <h3 align="center">I'm a Programmer & Developer By Hobby, Trying to Run & Manage different Telegram Bots & Websites For Completely Free. For the Greater Good :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurv-arya" alt="apurv-arya" /></a> </p>
-
 - 🔭 I’m currently working on [MailNever.Online](https://mailnever.online)
 
 <h3 align="left">Connect with me:</h3>
